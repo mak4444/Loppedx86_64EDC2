@@ -1,0 +1,4 @@
+VIEW_S 0
+S_VIEW_PATH B:\xx
+
+

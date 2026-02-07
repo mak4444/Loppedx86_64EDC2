@@ -1,0 +1,3 @@
+OVMF/MdeModulePkg/Bus/Pci/PciHostBridgeDxe/ff/PciHostBridge.obj
+OVMF/MdeModulePkg/Bus/Pci/PciHostBridgeDxe/ff/PciRootBridgeIo.obj
+OVMF/MdeModulePkg/Bus/Pci/PciHostBridgeDxe/ff/AutoGen.obj

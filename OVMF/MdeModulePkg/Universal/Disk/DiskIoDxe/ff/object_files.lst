@@ -1,0 +1,3 @@
+OVMF/MdeModulePkg/Universal/Disk/DiskIoDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Universal/Disk/DiskIoDxe/ff/DiskIo.obj
+OVMF/MdeModulePkg/Universal/Disk/DiskIoDxe/ff/AutoGen.obj

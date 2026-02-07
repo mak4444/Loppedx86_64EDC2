@@ -1,0 +1,13 @@
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/Reclaim.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/Variable.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/VariableDxe.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/VariableNonVolatile.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/VariableParsing.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/VariableRuntimeCache.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/Measurement.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/TcgMorLockDxe.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/VarCheck.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/VariableExLib.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/SpeculationBarrierDxe.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/VariableLockRequestToLock.obj
+OVMF/MdeModulePkg/Universal/Variable/RuntimeDxe/ff/AutoGen.obj

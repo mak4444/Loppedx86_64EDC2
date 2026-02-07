@@ -1,0 +1,6 @@
+OVMF/MdeModulePkg/Application/UiApp/ff/FrontPageVfr.obj
+OVMF/MdeModulePkg/Application/UiApp/ff/FrontPage.obj
+OVMF/MdeModulePkg/Application/UiApp/ff/String.obj
+OVMF/MdeModulePkg/Application/UiApp/ff/FrontPageCustomizedUi.obj
+OVMF/MdeModulePkg/Application/UiApp/ff/FrontPageCustomizedUiSupport.obj
+OVMF/MdeModulePkg/Application/UiApp/ff/AutoGen.obj

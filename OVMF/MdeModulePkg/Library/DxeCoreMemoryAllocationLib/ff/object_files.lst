@@ -1,0 +1,2 @@
+OVMF/MdeModulePkg/Library/DxeCoreMemoryAllocationLib/ff/MemoryAllocationLib.obj
+OVMF/MdeModulePkg/Library/DxeCoreMemoryAllocationLib/ff/DxeCoreMemoryProfileLibNull.obj

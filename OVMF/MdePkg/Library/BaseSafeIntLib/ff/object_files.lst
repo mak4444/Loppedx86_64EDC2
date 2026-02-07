@@ -1,0 +1,2 @@
+OVMF/MdePkg/Library/BaseSafeIntLib/ff/SafeIntLib.obj
+OVMF/MdePkg/Library/BaseSafeIntLib/ff/SafeIntLib64.obj

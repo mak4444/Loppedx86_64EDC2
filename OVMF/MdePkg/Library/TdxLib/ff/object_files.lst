@@ -1,0 +1,3 @@
+OVMF/MdePkg/Library/TdxLib/ff/AcceptPages.obj
+OVMF/MdePkg/Library/TdxLib/ff/Rtmr.obj
+OVMF/MdePkg/Library/TdxLib/ff/TdInfo.obj

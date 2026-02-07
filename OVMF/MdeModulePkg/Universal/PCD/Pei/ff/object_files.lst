@@ -1,0 +1,3 @@
+OVMF/MdeModulePkg/Universal/PCD/Pei/ff/Service.obj
+OVMF/MdeModulePkg/Universal/PCD/Pei/ff/Pcd.obj
+OVMF/MdeModulePkg/Universal/PCD/Pei/ff/AutoGen.obj

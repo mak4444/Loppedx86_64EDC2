@@ -1,0 +1,4 @@
+OVMF/MdeModulePkg/Bus/Pci/PciSioSerialDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Bus/Pci/PciSioSerialDxe/ff/SerialIo.obj
+OVMF/MdeModulePkg/Bus/Pci/PciSioSerialDxe/ff/Serial.obj
+OVMF/MdeModulePkg/Bus/Pci/PciSioSerialDxe/ff/AutoGen.obj

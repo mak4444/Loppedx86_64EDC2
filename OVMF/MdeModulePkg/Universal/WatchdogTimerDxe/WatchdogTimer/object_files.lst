@@ -1,0 +1,2 @@
+OVMF/MdeModulePkg/Universal/WatchdogTimerDxe/WatchdogTimer/WatchdogTimer.obj
+OVMF/MdeModulePkg/Universal/WatchdogTimerDxe/WatchdogTimer/AutoGen.obj

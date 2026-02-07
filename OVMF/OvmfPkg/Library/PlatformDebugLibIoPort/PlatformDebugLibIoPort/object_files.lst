@@ -1,0 +1,3 @@
+OVMF/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/DebugIoPortQemu.obj
+OVMF/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/DebugLib.obj
+OVMF/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/DebugLibDetect.obj

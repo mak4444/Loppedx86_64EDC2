@@ -1,0 +1,2 @@
+OVMF/OvmfPkg/Library/AcpiTimerLib/ff/AcpiTimerLib.obj
+OVMF/OvmfPkg/Library/AcpiTimerLib/ff/BaseRomAcpiTimerLib.obj

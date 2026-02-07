@@ -1,0 +1,3 @@
+OVMF/OvmfPkg/Library/PlatformBootManagerLib/ff/BdsPlatform.obj
+OVMF/OvmfPkg/Library/PlatformBootManagerLib/ff/PlatformData.obj
+OVMF/OvmfPkg/Library/PlatformBootManagerLib/ff/QemuKernel.obj

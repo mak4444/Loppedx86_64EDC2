@@ -1,0 +1,2 @@
+OVMF/MdeModulePkg/Library/VariablePolicyLib/ff/VariablePolicyLib.obj
+OVMF/MdeModulePkg/Library/VariablePolicyLib/ff/VariablePolicyExtraInitRuntimeDxe.obj

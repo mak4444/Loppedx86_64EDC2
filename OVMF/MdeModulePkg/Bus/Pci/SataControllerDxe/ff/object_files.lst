@@ -1,0 +1,3 @@
+OVMF/MdeModulePkg/Bus/Pci/SataControllerDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Bus/Pci/SataControllerDxe/ff/SataController.obj
+OVMF/MdeModulePkg/Bus/Pci/SataControllerDxe/ff/AutoGen.obj

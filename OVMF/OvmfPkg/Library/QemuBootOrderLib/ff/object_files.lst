@@ -1,0 +1,2 @@
+OVMF/OvmfPkg/Library/QemuBootOrderLib/ff/ExtraRootBusMap.obj
+OVMF/OvmfPkg/Library/QemuBootOrderLib/ff/QemuBootOrderLib.obj

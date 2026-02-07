@@ -1,0 +1,15 @@
+OVMF/MdeModulePkg/Core/Pei/ff/StatusCode.obj
+OVMF/MdeModulePkg/Core/Pei/ff/Security.obj
+OVMF/MdeModulePkg/Core/Pei/ff/Reset.obj
+OVMF/MdeModulePkg/Core/Pei/ff/Ppi.obj
+OVMF/MdeModulePkg/Core/Pei/ff/PeiMain.obj
+OVMF/MdeModulePkg/Core/Pei/ff/MemoryServices.obj
+OVMF/MdeModulePkg/Core/Pei/ff/Image.obj
+OVMF/MdeModulePkg/Core/Pei/ff/Hob.obj
+OVMF/MdeModulePkg/Core/Pei/ff/FwVol.obj
+OVMF/MdeModulePkg/Core/Pei/ff/Dispatcher.obj
+OVMF/MdeModulePkg/Core/Pei/ff/Dependency.obj
+OVMF/MdeModulePkg/Core/Pei/ff/BootMode.obj
+OVMF/MdeModulePkg/Core/Pei/ff/CpuIo.obj
+OVMF/MdeModulePkg/Core/Pei/ff/PciCfg2.obj
+OVMF/MdeModulePkg/Core/Pei/ff/AutoGen.obj

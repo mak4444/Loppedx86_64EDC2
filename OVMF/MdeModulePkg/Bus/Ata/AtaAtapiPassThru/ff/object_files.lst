@@ -1,0 +1,5 @@
+OVMF/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/ff/AtaAtapiPassThru.obj
+OVMF/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/ff/AhciMode.obj
+OVMF/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/ff/IdeMode.obj
+OVMF/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/ff/ComponentName.obj
+OVMF/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/ff/AutoGen.obj

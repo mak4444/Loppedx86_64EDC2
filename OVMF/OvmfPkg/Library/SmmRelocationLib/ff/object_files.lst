@@ -1,0 +1,4 @@
+OVMF/OvmfPkg/Library/SmmRelocationLib/ff/SmramSaveStateConfig.obj
+OVMF/OvmfPkg/Library/SmmRelocationLib/ff/SmmRelocationLib.obj
+OVMF/OvmfPkg/Library/SmmRelocationLib/ff/Semaphore.obj
+OVMF/OvmfPkg/Library/SmmRelocationLib/ff/SmmInit.obj

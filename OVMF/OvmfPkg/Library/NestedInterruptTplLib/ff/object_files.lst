@@ -1,0 +1,2 @@
+OVMF/OvmfPkg/Library/NestedInterruptTplLib/ff/Tpl.obj
+OVMF/OvmfPkg/Library/NestedInterruptTplLib/ff/Iret.obj

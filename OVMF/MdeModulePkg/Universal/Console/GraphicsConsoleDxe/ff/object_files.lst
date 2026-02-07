@@ -1,0 +1,4 @@
+OVMF/MdeModulePkg/Universal/Console/GraphicsConsoleDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Universal/Console/GraphicsConsoleDxe/ff/LaffStd.obj
+OVMF/MdeModulePkg/Universal/Console/GraphicsConsoleDxe/ff/GraphicsConsole.obj
+OVMF/MdeModulePkg/Universal/Console/GraphicsConsoleDxe/ff/AutoGen.obj

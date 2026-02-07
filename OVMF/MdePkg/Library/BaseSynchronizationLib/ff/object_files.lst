@@ -1,0 +1,3 @@
+OVMF/MdePkg/Library/BaseSynchronizationLib/ff/InternalGetSpinLockProperties.obj
+OVMF/MdePkg/Library/BaseSynchronizationLib/ff/GccInline.obj
+OVMF/MdePkg/Library/BaseSynchronizationLib/ff/SynchronizationGcc.obj

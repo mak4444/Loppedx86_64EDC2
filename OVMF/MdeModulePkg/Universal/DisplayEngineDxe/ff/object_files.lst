@@ -1,0 +1,5 @@
+OVMF/MdeModulePkg/Universal/DisplayEngineDxe/ff/FormDisplay.obj
+OVMF/MdeModulePkg/Universal/DisplayEngineDxe/ff/ProcessOptions.obj
+OVMF/MdeModulePkg/Universal/DisplayEngineDxe/ff/InputHandler.obj
+OVMF/MdeModulePkg/Universal/DisplayEngineDxe/ff/Popup.obj
+OVMF/MdeModulePkg/Universal/DisplayEngineDxe/ff/AutoGen.obj

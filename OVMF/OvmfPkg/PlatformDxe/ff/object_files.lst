@@ -1,0 +1,4 @@
+OVMF/OvmfPkg/PlatformDxe/ff/Platform.obj
+OVMF/OvmfPkg/PlatformDxe/ff/PlatformConfig.obj
+OVMF/OvmfPkg/PlatformDxe/ff/PlatformForms.obj
+OVMF/OvmfPkg/PlatformDxe/ff/AutoGen.obj

@@ -1,0 +1,2 @@
+OVMF/UefiCpuPkg/Library/CpuPageTableLib/ff/CpuPageTableMap.obj
+OVMF/UefiCpuPkg/Library/CpuPageTableLib/ff/CpuPageTableParse.obj

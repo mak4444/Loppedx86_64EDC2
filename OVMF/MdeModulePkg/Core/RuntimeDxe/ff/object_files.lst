@@ -1,0 +1,3 @@
+OVMF/MdeModulePkg/Core/RuntimeDxe/ff/Crc32.obj
+OVMF/MdeModulePkg/Core/RuntimeDxe/ff/Runtime.obj
+OVMF/MdeModulePkg/Core/RuntimeDxe/ff/AutoGen.obj

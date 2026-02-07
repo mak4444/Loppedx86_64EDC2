@@ -1,0 +1,5 @@
+OVMF/CryptoPkg/Library/OpensslLib/ff/OpensslLibConstructor.obj
+OVMF/CryptoPkg/Library/OpensslLib/ff/cpt_err.obj
+OVMF/CryptoPkg/Library/OpensslLib/ff/cpuid.obj
+OVMF/CryptoPkg/Library/OpensslLib/ff/sha256.obj
+OVMF/CryptoPkg/Library/OpensslLib/ff/sha512.obj

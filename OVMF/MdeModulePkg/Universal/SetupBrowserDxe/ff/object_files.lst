@@ -1,0 +1,5 @@
+OVMF/MdeModulePkg/Universal/SetupBrowserDxe/ff/Setup.obj
+OVMF/MdeModulePkg/Universal/SetupBrowserDxe/ff/IfrParse.obj
+OVMF/MdeModulePkg/Universal/SetupBrowserDxe/ff/Expression.obj
+OVMF/MdeModulePkg/Universal/SetupBrowserDxe/ff/Presentation.obj
+OVMF/MdeModulePkg/Universal/SetupBrowserDxe/ff/AutoGen.obj

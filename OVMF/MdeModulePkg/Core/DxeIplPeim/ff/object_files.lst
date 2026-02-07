@@ -1,0 +1,4 @@
+OVMF/MdeModulePkg/Core/DxeIplPeim/ff/DxeLoad.obj
+OVMF/MdeModulePkg/Core/DxeIplPeim/ff/VirtualMemory.obj
+OVMF/MdeModulePkg/Core/DxeIplPeim/ff/DxeLoadFunc.obj
+OVMF/MdeModulePkg/Core/DxeIplPeim/ff/AutoGen.obj

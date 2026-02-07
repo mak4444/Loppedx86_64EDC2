@@ -1,0 +1,4 @@
+OVMF/MdeModulePkg/Universal/Console/ConSplitterDxe/ff/ConSplitterGraphics.obj
+OVMF/MdeModulePkg/Universal/Console/ConSplitterDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Universal/Console/ConSplitterDxe/ff/ConSplitter.obj
+OVMF/MdeModulePkg/Universal/Console/ConSplitterDxe/ff/AutoGen.obj

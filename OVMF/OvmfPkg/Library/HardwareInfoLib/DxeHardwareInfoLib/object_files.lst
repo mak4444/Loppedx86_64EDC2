@@ -1,0 +1,3 @@
+OVMF/OvmfPkg/Library/HardwareInfoLib/DxeHardwareInfoLib/HardwareInfoDxe.obj
+OVMF/OvmfPkg/Library/HardwareInfoLib/DxeHardwareInfoLib/HardwareInfoPciHostBridgeLib.obj
+OVMF/OvmfPkg/Library/HardwareInfoLib/DxeHardwareInfoLib/QemuFwCfgHardwareInfoLib.obj

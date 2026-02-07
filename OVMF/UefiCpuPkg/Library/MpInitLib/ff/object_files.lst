@@ -1,0 +1,7 @@
+OVMF/UefiCpuPkg/Library/MpInitLib/ff/AmdSevX.obj
+OVMF/UefiCpuPkg/Library/MpInitLib/ff/CreatePageTable.obj
+OVMF/UefiCpuPkg/Library/MpInitLib/ff/MpFuncs.obj
+OVMF/UefiCpuPkg/Library/MpInitLib/ff/AmdSev.obj
+OVMF/UefiCpuPkg/Library/MpInitLib/ff/DxeMpLib.obj
+OVMF/UefiCpuPkg/Library/MpInitLib/ff/Microcode.obj
+OVMF/UefiCpuPkg/Library/MpInitLib/ff/MpLib.obj

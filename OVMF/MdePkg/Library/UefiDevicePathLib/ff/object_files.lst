@@ -1,0 +1,5 @@
+OVMF/MdePkg/Library/UefiDevicePathLib/ff/DevicePathUtilities.obj
+OVMF/MdePkg/Library/UefiDevicePathLib/ff/DevicePathUtilitiesDxeSmm.obj
+OVMF/MdePkg/Library/UefiDevicePathLib/ff/DevicePathToText.obj
+OVMF/MdePkg/Library/UefiDevicePathLib/ff/DevicePathFromText.obj
+OVMF/MdePkg/Library/UefiDevicePathLib/ff/UefiDevicePathLib.obj

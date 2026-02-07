@@ -1,0 +1,3 @@
+OVMF/PcAtChipsetPkg/PcatRealTimeClockRuntimeDxe/ff/PcRtcEntry.obj
+OVMF/PcAtChipsetPkg/PcatRealTimeClockRuntimeDxe/ff/PcRtc.obj
+OVMF/PcAtChipsetPkg/PcatRealTimeClockRuntimeDxe/ff/AutoGen.obj

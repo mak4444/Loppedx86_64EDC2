@@ -1,0 +1,4 @@
+OVMF/MdeModulePkg/Library/LzmaCustomDecompressLib/ff/LzmaDecompress.obj
+OVMF/MdeModulePkg/Library/LzmaCustomDecompressLib/ff/LzFind.obj
+OVMF/MdeModulePkg/Library/LzmaCustomDecompressLib/ff/LzmaDec.obj
+OVMF/MdeModulePkg/Library/LzmaCustomDecompressLib/ff/GuidedSectionExtraction.obj

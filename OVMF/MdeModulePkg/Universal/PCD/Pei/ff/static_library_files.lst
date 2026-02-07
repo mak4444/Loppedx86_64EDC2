@@ -1,0 +1,17 @@
+OVMF/MdePkg/Library/PeiServicesTablePointerLibIdt/ff/PeiServicesTablePointerLibIdt.lib
+OVMF/MdePkg/Library/RegisterFilterLibNull/ff/FilterLibNull.lib
+OVMF/MdePkg/Library/PeiMemoryAllocationLib/ff/PeiMemoryAllocationLib.lib
+OVMF/MdePkg/Library/BaseLib/ff/BaseLib.lib
+OVMF/MdePkg/Library/PeiHobLib/ff/PeiHobLib.lib
+OVMF/MdePkg/Library/PeiServicesLib/ff/PeiServicesLib.lib
+OVMF/MdePkg/Library/PeiPcdLib/ff/PeiPcdLib.lib
+OVMF/MdePkg/Library/BaseMemoryLibRepStr/ff/BaseMemoryLibRepStr.lib
+OVMF/MdePkg/Library/TdxLib/ff/TdxLib.lib
+OVMF/OvmfPkg/Library/CcProbeLib/ff/SecPeiCcProbeLib.lib
+OVMF/MdePkg/Library/BaseDebugPrintErrorLevelLib/ff/BaseDebugPrintErrorLevelLib.lib
+OVMF/MdePkg/Library/BasePrintLib/ff/BasePrintLib.lib
+OVMF/MdePkg/Library/BaseIoLibIntrinsic/ff/BaseIoLibIntrinsicSev.lib
+OVMF/OvmfPkg/Library/PlatformDebugLibIoPort/ff/PlatformRomDebugLibIoPort.lib
+OVMF/MdePkg/Library/StackCheckLibNull/ff/StackCheckLibNull.lib
+OVMF/MdePkg/Library/PeimEntryPoint/ff/PeimEntryPoint.lib
+OVMF/MdeModulePkg/Universal/PCD/Pei/ff/PcdPeim.lib

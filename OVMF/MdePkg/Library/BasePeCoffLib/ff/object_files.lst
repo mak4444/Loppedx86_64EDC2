@@ -1,0 +1,2 @@
+OVMF/MdePkg/Library/BasePeCoffLib/ff/BasePeCoff.obj
+OVMF/MdePkg/Library/BasePeCoffLib/ff/PeCoffLoaderEx.obj

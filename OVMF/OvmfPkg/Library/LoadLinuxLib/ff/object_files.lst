@@ -1,0 +1,3 @@
+OVMF/OvmfPkg/Library/LoadLinuxLib/ff/Linux.obj
+OVMF/OvmfPkg/Library/LoadLinuxLib/ff/LinuxGdt.obj
+OVMF/OvmfPkg/Library/LoadLinuxLib/ff/JumpToKernel.obj

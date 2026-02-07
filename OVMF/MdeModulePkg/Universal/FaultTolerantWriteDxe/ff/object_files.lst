@@ -1,0 +1,5 @@
+OVMF/MdeModulePkg/Universal/FaultTolerantWriteDxe/ff/FtwMisc.obj
+OVMF/MdeModulePkg/Universal/FaultTolerantWriteDxe/ff/UpdateWorkingBlock.obj
+OVMF/MdeModulePkg/Universal/FaultTolerantWriteDxe/ff/FaultTolerantWrite.obj
+OVMF/MdeModulePkg/Universal/FaultTolerantWriteDxe/ff/FaultTolerantWriteDxe.obj
+OVMF/MdeModulePkg/Universal/FaultTolerantWriteDxe/ff/AutoGen.obj

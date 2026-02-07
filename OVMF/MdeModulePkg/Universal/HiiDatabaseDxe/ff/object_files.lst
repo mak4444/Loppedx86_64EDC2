@@ -1,0 +1,9 @@
+OVMF/MdeModulePkg/Universal/HiiDatabaseDxe/ff/HiiDatabaseEntry.obj
+OVMF/MdeModulePkg/Universal/HiiDatabaseDxe/ff/Image.obj
+OVMF/MdeModulePkg/Universal/HiiDatabaseDxe/ff/ImageEx.obj
+OVMF/MdeModulePkg/Universal/HiiDatabaseDxe/ff/ConfigRouting.obj
+OVMF/MdeModulePkg/Universal/HiiDatabaseDxe/ff/String.obj
+OVMF/MdeModulePkg/Universal/HiiDatabaseDxe/ff/Database.obj
+OVMF/MdeModulePkg/Universal/HiiDatabaseDxe/ff/Font.obj
+OVMF/MdeModulePkg/Universal/HiiDatabaseDxe/ff/ConfigKeywordHandler.obj
+OVMF/MdeModulePkg/Universal/HiiDatabaseDxe/ff/AutoGen.obj

@@ -1,0 +1,3 @@
+OVMF/MdeModulePkg/Library/UefiHiiLib/ff/HiiLib.obj
+OVMF/MdeModulePkg/Library/UefiHiiLib/ff/HiiString.obj
+OVMF/MdeModulePkg/Library/UefiHiiLib/ff/HiiLanguage.obj

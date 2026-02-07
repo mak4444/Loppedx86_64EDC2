@@ -1,0 +1,4 @@
+OVMF/OvmfPkg/IoMmuDxe/ff/CcIoMmu.obj
+OVMF/OvmfPkg/IoMmuDxe/ff/IoMmuDxe.obj
+OVMF/OvmfPkg/IoMmuDxe/ff/IoMmuBuffer.obj
+OVMF/OvmfPkg/IoMmuDxe/ff/AutoGen.obj

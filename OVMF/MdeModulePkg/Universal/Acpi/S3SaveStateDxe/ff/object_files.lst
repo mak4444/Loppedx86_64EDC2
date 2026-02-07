@@ -1,0 +1,3 @@
+OVMF/MdeModulePkg/Universal/Acpi/S3SaveStateDxe/ff/S3SaveState.obj
+OVMF/MdeModulePkg/Universal/Acpi/S3SaveStateDxe/ff/AcpiS3ContextSave.obj
+OVMF/MdeModulePkg/Universal/Acpi/S3SaveStateDxe/ff/AutoGen.obj

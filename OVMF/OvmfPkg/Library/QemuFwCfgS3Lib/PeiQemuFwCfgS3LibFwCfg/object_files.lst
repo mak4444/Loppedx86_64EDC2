@@ -1,0 +1,3 @@
+OVMF/OvmfPkg/Library/QemuFwCfgS3Lib/PeiQemuFwCfgS3LibFwCfg/QemuFwCfgS3BasePei.obj
+OVMF/OvmfPkg/Library/QemuFwCfgS3Lib/PeiQemuFwCfgS3LibFwCfg/QemuFwCfgS3Pei.obj
+OVMF/OvmfPkg/Library/QemuFwCfgS3Lib/PeiQemuFwCfgS3LibFwCfg/QemuFwCfgS3PeiDxe.obj

@@ -1,0 +1,6 @@
+OVMF/MdePkg/Library/UefiLib/ff/UefiLibPrint.obj
+OVMF/MdePkg/Library/UefiLib/ff/UefiNotTiano.obj
+OVMF/MdePkg/Library/UefiLib/ff/UefiDriverModel.obj
+OVMF/MdePkg/Library/UefiLib/ff/Console.obj
+OVMF/MdePkg/Library/UefiLib/ff/UefiLib.obj
+OVMF/MdePkg/Library/UefiLib/ff/Acpi.obj

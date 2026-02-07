@@ -1,0 +1,6 @@
+OVMF/OvmfPkg/Library/CcExitLib/ff/CcExitLib.obj
+OVMF/OvmfPkg/Library/CcExitLib/ff/CcExitVcHandler.obj
+OVMF/OvmfPkg/Library/CcExitLib/ff/CcInstruction.obj
+OVMF/OvmfPkg/Library/CcExitLib/ff/SecCcExitVcHandler.obj
+OVMF/OvmfPkg/Library/CcExitLib/ff/CcExitVeHandler.obj
+OVMF/OvmfPkg/Library/CcExitLib/ff/TdVmcallCpuid.obj

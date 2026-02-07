@@ -1,0 +1,7 @@
+OVMF/UefiCpuPkg/CpuDxe/ff/CpuDxe.obj
+OVMF/UefiCpuPkg/CpuDxe/ff/CpuGdt.obj
+OVMF/UefiCpuPkg/CpuDxe/ff/CpuMp.obj
+OVMF/UefiCpuPkg/CpuDxe/ff/CpuPageTable.obj
+OVMF/UefiCpuPkg/CpuDxe/ff/CpuAsm.obj
+OVMF/UefiCpuPkg/CpuDxe/ff/PagingAttribute.obj
+OVMF/UefiCpuPkg/CpuDxe/ff/AutoGen.obj

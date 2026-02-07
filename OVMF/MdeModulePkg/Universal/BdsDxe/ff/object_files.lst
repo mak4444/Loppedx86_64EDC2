@@ -1,0 +1,4 @@
+OVMF/MdeModulePkg/Universal/BdsDxe/ff/HwErrRecSupport.obj
+OVMF/MdeModulePkg/Universal/BdsDxe/ff/Language.obj
+OVMF/MdeModulePkg/Universal/BdsDxe/ff/BdsEntry.obj
+OVMF/MdeModulePkg/Universal/BdsDxe/ff/AutoGen.obj

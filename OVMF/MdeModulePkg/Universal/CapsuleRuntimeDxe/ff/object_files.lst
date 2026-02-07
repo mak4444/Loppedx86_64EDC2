@@ -1,0 +1,5 @@
+OVMF/MdeModulePkg/Universal/CapsuleRuntimeDxe/ff/CapsuleService.obj
+OVMF/MdeModulePkg/Universal/CapsuleRuntimeDxe/ff/CapsuleCache.obj
+OVMF/MdeModulePkg/Universal/CapsuleRuntimeDxe/ff/CapsuleReset.obj
+OVMF/MdeModulePkg/Universal/CapsuleRuntimeDxe/ff/SaveLongModeContext.obj
+OVMF/MdeModulePkg/Universal/CapsuleRuntimeDxe/ff/AutoGen.obj

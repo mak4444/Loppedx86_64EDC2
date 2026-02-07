@@ -1,0 +1,15 @@
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciLib.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciIo.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciBus.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciDeviceSupport.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciCommand.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciResourceSupport.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciEnumeratorSupport.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciEnumerator.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciOptionRomSupport.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciDriverOverride.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciPowerManagement.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciRomTable.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/PciHotPlugSupport.obj
+OVMF/MdeModulePkg/Bus/Pci/PciBusDxe/ff/AutoGen.obj

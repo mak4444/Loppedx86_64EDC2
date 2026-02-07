@@ -1,0 +1,3 @@
+OVMF/MdeModulePkg/Library/CustomizedDisplayLib/ff/CustomizedDisplayLib.obj
+OVMF/MdeModulePkg/Library/CustomizedDisplayLib/ff/CustomizedDisplayLibInternal.obj
+OVMF/MdeModulePkg/Library/CustomizedDisplayLib/ff/AutoGen.obj

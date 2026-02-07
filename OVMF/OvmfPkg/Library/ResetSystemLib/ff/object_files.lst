@@ -1,0 +1,2 @@
+OVMF/OvmfPkg/Library/ResetSystemLib/ff/DxeResetShutdown.obj
+OVMF/OvmfPkg/Library/ResetSystemLib/ff/ResetSystemLib.obj

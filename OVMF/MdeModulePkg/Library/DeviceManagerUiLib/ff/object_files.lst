@@ -1,0 +1,3 @@
+OVMF/MdeModulePkg/Library/DeviceManagerUiLib/ff/DeviceManagerVfr.obj
+OVMF/MdeModulePkg/Library/DeviceManagerUiLib/ff/DeviceManager.obj
+OVMF/MdeModulePkg/Library/DeviceManagerUiLib/ff/AutoGen.obj

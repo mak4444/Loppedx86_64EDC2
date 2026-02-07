@@ -1,0 +1,7 @@
+OVMF/MdePkg/Library/BaseIoLibIntrinsic/ff/IoLibMmioBuffer.obj
+OVMF/MdePkg/Library/BaseIoLibIntrinsic/ff/IoHighLevel.obj
+OVMF/MdePkg/Library/BaseIoLibIntrinsic/ff/IoLibGcc.obj
+OVMF/MdePkg/Library/BaseIoLibIntrinsic/ff/IoLib.obj
+OVMF/MdePkg/Library/BaseIoLibIntrinsic/ff/IoLibInternalTdx.obj
+OVMF/MdePkg/Library/BaseIoLibIntrinsic/ff/IoLibFifoCc.obj
+OVMF/MdePkg/Library/BaseIoLibIntrinsic/ff/IoFifoSev.obj

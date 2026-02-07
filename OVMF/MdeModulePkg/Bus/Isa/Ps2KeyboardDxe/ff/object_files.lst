@@ -1,0 +1,5 @@
+OVMF/MdeModulePkg/Bus/Isa/Ps2KeyboardDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Bus/Isa/Ps2KeyboardDxe/ff/Ps2KbdCtrller.obj
+OVMF/MdeModulePkg/Bus/Isa/Ps2KeyboardDxe/ff/Ps2KbdTextIn.obj
+OVMF/MdeModulePkg/Bus/Isa/Ps2KeyboardDxe/ff/Ps2Keyboard.obj
+OVMF/MdeModulePkg/Bus/Isa/Ps2KeyboardDxe/ff/AutoGen.obj

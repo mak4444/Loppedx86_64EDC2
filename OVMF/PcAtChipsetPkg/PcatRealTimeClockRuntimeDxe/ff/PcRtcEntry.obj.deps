@@ -1,0 +1,65 @@
+OVMF/PcAtChipsetPkg/PcatRealTimeClockRuntimeDxe/ff/PcRtcEntry.obj: \
+ OVMF/PcAtChipsetPkg/PcatRealTimeClockRuntimeDxe/PcRtcEntry.c \
+ OVMF/PcAtChipsetPkg/PcatRealTimeClockRuntimeDxe/ff/AutoGen.h \
+ OVMF/MdePkg/Include/PiDxe.h OVMF/MdePkg/Include/Uefi/UefiBaseType.h \
+ OVMF/MdePkg/Include/Base.h OVMF/MdePkg/Include/X64/ProcessorBind.h \
+ OVMF/MdePkg/Include/Uefi/UefiSpec.h \
+ OVMF/MdePkg/Include/Uefi/UefiMultiPhase.h \
+ OVMF/MdePkg/Include/Guid/WinCertificate.h \
+ OVMF/MdePkg/Include/Protocol/DevicePath.h \
+ OVMF/MdePkg/Include/Guid/PcAnsi.h \
+ OVMF/MdePkg/Include/IndustryStandard/Bluetooth.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi60.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi51.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi50.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi40.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi30.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi20.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi10.h \
+ OVMF/MdePkg/Include/IndustryStandard/AcpiAml.h \
+ OVMF/MdePkg/Include/Protocol/SimpleTextIn.h \
+ OVMF/MdePkg/Include/Protocol/SimpleTextInEx.h \
+ OVMF/MdePkg/Include/Protocol/SimpleTextOut.h \
+ OVMF/MdePkg/Include/Uefi/UefiPxe.h OVMF/MdePkg/Include/Uefi/UefiGpt.h \
+ OVMF/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+ OVMF/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+ OVMF/MdePkg/Include/Pi/PiDxeCis.h OVMF/MdePkg/Include/Pi/PiMultiPhase.h \
+ OVMF/MdePkg/Include/Pi/PiFirmwareVolume.h \
+ OVMF/MdePkg/Include/Pi/PiFirmwareFile.h \
+ OVMF/MdePkg/Include/Pi/PiBootMode.h OVMF/MdePkg/Include/Pi/PiHob.h \
+ OVMF/MdePkg/Include/Pi/PiDependency.h \
+ OVMF/MdePkg/Include/Pi/PiStatusCode.h \
+ OVMF/MdePkg/Include/Protocol/DebugSupport.h \
+ OVMF/MdePkg/Include/IndustryStandard/PeImage.h \
+ OVMF/MdePkg/Include/Pi/PiS3BootScript.h \
+ OVMF/MdePkg/Include/Library/PcdLib.h \
+ OVMF/MdePkg/Include/Library/DxeServicesTableLib.h \
+ OVMF/PcAtChipsetPkg/PcatRealTimeClockRuntimeDxe/PcRtc.h \
+ OVMF/MdePkg/Include/Uefi.h OVMF/MdePkg/Include/Guid/Acpi.h \
+ OVMF/MdePkg/Include/Protocol/RealTimeClock.h \
+ OVMF/MdePkg/Include/Library/BaseLib.h \
+ OVMF/MdePkg/Include/Library/DebugLib.h \
+ OVMF/MdePkg/Include/Library/UefiLib.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi65.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi64.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi63.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi62.h \
+ OVMF/MdePkg/Include/IndustryStandard/Acpi61.h \
+ OVMF/MdePkg/Include/Protocol/DriverBinding.h \
+ OVMF/MdePkg/Include/Protocol/DriverConfiguration.h \
+ OVMF/MdePkg/Include/Protocol/DriverConfiguration2.h \
+ OVMF/MdePkg/Include/Protocol/ComponentName.h \
+ OVMF/MdePkg/Include/Protocol/ComponentName2.h \
+ OVMF/MdePkg/Include/Protocol/DriverDiagnostics.h \
+ OVMF/MdePkg/Include/Protocol/DriverDiagnostics2.h \
+ OVMF/MdePkg/Include/Protocol/GraphicsOutput.h \
+ OVMF/MdePkg/Include/Protocol/SimpleFileSystem.h \
+ OVMF/MdePkg/Include/Library/BaseMemoryLib.h \
+ OVMF/MdePkg/Include/Library/IoLib.h \
+ OVMF/MdePkg/Include/Library/TimerLib.h \
+ OVMF/MdePkg/Include/Library/UefiDriverEntryPoint.h \
+ OVMF/MdePkg/Include/Library/UefiBootServicesTableLib.h \
+ OVMF/MdePkg/Include/Library/UefiRuntimeLib.h \
+ OVMF/MdePkg/Include/Library/UefiRuntimeServicesTableLib.h \
+ OVMF/MdePkg/Include/Library/ReportStatusCodeLib.h

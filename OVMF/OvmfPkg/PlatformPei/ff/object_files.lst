@@ -1,0 +1,11 @@
+OVMF/OvmfPkg/PlatformPei/ff/AmdSev.obj
+OVMF/OvmfPkg/PlatformPei/ff/ClearCache.obj
+OVMF/OvmfPkg/PlatformPei/ff/FeatureControl.obj
+OVMF/OvmfPkg/PlatformPei/ff/Fv.obj
+OVMF/OvmfPkg/PlatformPei/ff/MemDetect.obj
+OVMF/OvmfPkg/PlatformPei/ff/MemTypeInfo.obj
+OVMF/OvmfPkg/PlatformPei/ff/Platform.obj
+OVMF/OvmfPkg/PlatformPei/ff/PlatformId.obj
+OVMF/OvmfPkg/PlatformPei/ff/IntelTdx.obj
+OVMF/OvmfPkg/PlatformPei/ff/SmmRelocation.obj
+OVMF/OvmfPkg/PlatformPei/ff/AutoGen.obj

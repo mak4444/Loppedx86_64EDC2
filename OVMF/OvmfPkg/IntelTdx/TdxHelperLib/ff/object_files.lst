@@ -1,0 +1,2 @@
+OVMF/OvmfPkg/IntelTdx/TdxHelperLib/ff/SecTdxHelper.obj
+OVMF/OvmfPkg/IntelTdx/TdxHelperLib/ff/TdxMeasurementHob.obj

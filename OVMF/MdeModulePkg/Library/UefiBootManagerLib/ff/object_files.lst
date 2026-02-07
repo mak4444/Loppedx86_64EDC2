@@ -1,0 +1,8 @@
+OVMF/MdeModulePkg/Library/UefiBootManagerLib/ff/BmConnect.obj
+OVMF/MdeModulePkg/Library/UefiBootManagerLib/ff/BmMisc.obj
+OVMF/MdeModulePkg/Library/UefiBootManagerLib/ff/BmConsole.obj
+OVMF/MdeModulePkg/Library/UefiBootManagerLib/ff/BmBoot.obj
+OVMF/MdeModulePkg/Library/UefiBootManagerLib/ff/BmBootDescription.obj
+OVMF/MdeModulePkg/Library/UefiBootManagerLib/ff/BmLoadOption.obj
+OVMF/MdeModulePkg/Library/UefiBootManagerLib/ff/BmHotkey.obj
+OVMF/MdeModulePkg/Library/UefiBootManagerLib/ff/BmDriverHealth.obj

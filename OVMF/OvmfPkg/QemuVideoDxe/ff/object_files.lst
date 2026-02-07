@@ -1,0 +1,5 @@
+OVMF/OvmfPkg/QemuVideoDxe/ff/ComponentName.obj
+OVMF/OvmfPkg/QemuVideoDxe/ff/Driver.obj
+OVMF/OvmfPkg/QemuVideoDxe/ff/Gop.obj
+OVMF/OvmfPkg/QemuVideoDxe/ff/Initialize.obj
+OVMF/OvmfPkg/QemuVideoDxe/ff/AutoGen.obj

@@ -1,0 +1,2 @@
+OVMF/MdeModulePkg/Library/PiDxeS3BootScriptLib/ff/BootScriptSave.obj
+OVMF/MdeModulePkg/Library/PiDxeS3BootScriptLib/ff/BootScriptExecute.obj

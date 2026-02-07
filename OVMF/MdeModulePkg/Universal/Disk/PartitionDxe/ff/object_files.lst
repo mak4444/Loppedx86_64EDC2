@@ -1,0 +1,7 @@
+OVMF/MdeModulePkg/Universal/Disk/PartitionDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Universal/Disk/PartitionDxe/ff/Mbr.obj
+OVMF/MdeModulePkg/Universal/Disk/PartitionDxe/ff/Gpt.obj
+OVMF/MdeModulePkg/Universal/Disk/PartitionDxe/ff/ElTorito.obj
+OVMF/MdeModulePkg/Universal/Disk/PartitionDxe/ff/Udf.obj
+OVMF/MdeModulePkg/Universal/Disk/PartitionDxe/ff/Partition.obj
+OVMF/MdeModulePkg/Universal/Disk/PartitionDxe/ff/AutoGen.obj

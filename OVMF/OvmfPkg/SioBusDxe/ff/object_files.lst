@@ -1,0 +1,4 @@
+OVMF/OvmfPkg/SioBusDxe/ff/ComponentName.obj
+OVMF/OvmfPkg/SioBusDxe/ff/SioService.obj
+OVMF/OvmfPkg/SioBusDxe/ff/SioBusDxe.obj
+OVMF/OvmfPkg/SioBusDxe/ff/AutoGen.obj

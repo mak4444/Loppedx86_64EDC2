@@ -1,0 +1,4 @@
+OVMF/MdePkg/Library/BaseCpuLib/ff/X86BaseCpuLib.obj
+OVMF/MdePkg/Library/BaseCpuLib/ff/X86CpuFlushTlb.obj
+OVMF/MdePkg/Library/BaseCpuLib/ff/CpuSleep.obj
+OVMF/MdePkg/Library/BaseCpuLib/ff/InitializeFpu.obj

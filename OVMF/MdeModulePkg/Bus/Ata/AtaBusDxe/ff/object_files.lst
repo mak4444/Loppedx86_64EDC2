@@ -1,0 +1,4 @@
+OVMF/MdeModulePkg/Bus/Ata/AtaBusDxe/ff/AtaBus.obj
+OVMF/MdeModulePkg/Bus/Ata/AtaBusDxe/ff/AtaPassThruExecute.obj
+OVMF/MdeModulePkg/Bus/Ata/AtaBusDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Bus/Ata/AtaBusDxe/ff/AutoGen.obj

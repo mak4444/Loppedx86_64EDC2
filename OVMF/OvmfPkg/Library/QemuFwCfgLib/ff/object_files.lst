@@ -1,0 +1,3 @@
+OVMF/OvmfPkg/Library/QemuFwCfgLib/ff/QemuFwCfgLib.obj
+OVMF/OvmfPkg/Library/QemuFwCfgLib/ff/QemuFwCfgDxe.obj
+OVMF/OvmfPkg/Library/QemuFwCfgLib/ff/QemuFwCfgCache.obj

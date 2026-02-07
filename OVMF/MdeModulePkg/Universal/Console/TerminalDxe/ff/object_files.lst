@@ -1,0 +1,7 @@
+OVMF/MdeModulePkg/Universal/Console/TerminalDxe/ff/ComponentName.obj
+OVMF/MdeModulePkg/Universal/Console/TerminalDxe/ff/Vtutf8.obj
+OVMF/MdeModulePkg/Universal/Console/TerminalDxe/ff/Ansi.obj
+OVMF/MdeModulePkg/Universal/Console/TerminalDxe/ff/TerminalConOut.obj
+OVMF/MdeModulePkg/Universal/Console/TerminalDxe/ff/TerminalConIn.obj
+OVMF/MdeModulePkg/Universal/Console/TerminalDxe/ff/Terminal.obj
+OVMF/MdeModulePkg/Universal/Console/TerminalDxe/ff/AutoGen.obj

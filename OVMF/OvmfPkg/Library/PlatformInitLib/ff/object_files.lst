@@ -1,0 +1,5 @@
+OVMF/OvmfPkg/Library/PlatformInitLib/ff/Cmos.obj
+OVMF/OvmfPkg/Library/PlatformInitLib/ff/MemDetect.obj
+OVMF/OvmfPkg/Library/PlatformInitLib/ff/Platform.obj
+OVMF/OvmfPkg/Library/PlatformInitLib/ff/IntelTdx.obj
+OVMF/OvmfPkg/Library/PlatformInitLib/ff/Paging.obj

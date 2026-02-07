@@ -1,0 +1,5 @@
+OVMF/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/ArchExceptionHandler.obj
+OVMF/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/SecPeiExceptionHandlerAsm.obj
+OVMF/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/CpuExceptionCommon.obj
+OVMF/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/PeiCpuException.obj
+OVMF/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/PeiDxeSmmCpuException.obj

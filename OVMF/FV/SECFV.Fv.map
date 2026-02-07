@@ -1,0 +1,7 @@
+EFI_FV_TOTAL_SIZE = 0x24000
+EFI_FV_TAKEN_SIZE = 0xce70
+EFI_FV_SPACE_SIZE = 0x17190
+
+SecMain (Fixed Flash Address, BaseAddress=0x00fffdc094, EntryPoint=0x00fffe5504, Type=PE)
+(GUID=DF1CCEF6-F301-4A63-9661-FC6030DCC880 .textbaseaddress=0x00fffdc2d4 .databaseaddress=0x00fffe6e94)
+

@@ -1,0 +1,130 @@
+EFI_FV_TOTAL_SIZE = 0xe80000
+EFI_FV_TAKEN_SIZE = 0xff8b0
+EFI_FV_SPACE_SIZE = 0xd80750
+
+DxeCore (Fixed Flash Address, BaseAddress=0x0000900094, EntryPoint=0x00009133e4, Type=PE)
+(GUID=D6A2CB7F-6A18-4E2F-B43B-9920A733700A .textbaseaddress=0x00009002d4 .databaseaddress=0x0000917a14)
+
+ReportStatusCodeRouterRuntimeDxe (Fixed Flash Address, BaseAddress=0x000092147c, EntryPoint=0x0000921d9f, Type=PE)
+(GUID=D93CE3D8-A7EB-4730-8C8E-CC466A9ECC3C .textbaseaddress=0x00009216bc .databaseaddress=0x000092207c)
+
+PcdDxe (Fixed Flash Address, BaseAddress=0x0000922470, EntryPoint=0x0000924280, Type=PE)
+(GUID=80CF7257-87AB-47F9-A3FE-D50B76D89541 .textbaseaddress=0x00009226b0 .databaseaddress=0x00009246b0)
+
+RuntimeDxe (Fixed Flash Address, BaseAddress=0x0000924c5c, EntryPoint=0x00009254a4, Type=PE)
+(GUID=B601F8C4-43B7-4784-95B1-F4226CB40CEE .textbaseaddress=0x0000924e9c .databaseaddress=0x0000925adc)
+
+SecurityStubDxe (Fixed Flash Address, BaseAddress=0x0000925e0c, EntryPoint=0x00009264c6, Type=PE)
+(GUID=F80697E9-7FD6-4665-8646-88E33EF71DFC .textbaseaddress=0x000092604c .databaseaddress=0x000092670c)
+
+CpuIo2Dxe (Fixed Flash Address, BaseAddress=0x0000926a1c, EntryPoint=0x00009276e7, Type=PE)
+(GUID=A19B1FE7-C1BC-49F8-875F-54A5D542443F .textbaseaddress=0x0000926c5c .databaseaddress=0x000092795c)
+
+CpuDxe (Fixed Flash Address, BaseAddress=0x0000927b74, EntryPoint=0x00009304da, Type=PE)
+(GUID=1A1E4886-9517-440E-9FDE-3BE44CEE2136 .textbaseaddress=0x0000927db4 .databaseaddress=0x00009372b4)
+
+LocalApicTimerDxe (Fixed Flash Address, BaseAddress=0x000093e3f0, EntryPoint=0x000093ed8b, Type=PE)
+(GUID=52FE8196-F9DE-4D07-B22F-51F77A0E7C41 .textbaseaddress=0x000093e630 .databaseaddress=0x000093f070)
+
+PciHostBridgeDxe (Fixed Flash Address, BaseAddress=0x000093f3b4, EntryPoint=0x00009433b4, Type=PE)
+(GUID=128FB770-5E79-4176-9E51-9BB268A17DD1 .textbaseaddress=0x000093f5f4 .databaseaddress=0x0000943834)
+
+PciBusDxe (Fixed Flash Address, BaseAddress=0x0000943b0c, EntryPoint=0x000094d5f6, Type=PE)
+(GUID=93B80004-9FB3-11D4-9A3A-0090273FC14D .textbaseaddress=0x0000943d4c .databaseaddress=0x000094d80c)
+
+ResetSystemRuntimeDxe (Fixed Flash Address, BaseAddress=0x000094de7c, EntryPoint=0x000094e817, Type=PE)
+(GUID=4B28E4C7-FF36-4E10-93CF-A82159E777C5 .textbaseaddress=0x000094e0bc .databaseaddress=0x000094ebbc)
+
+Metronome (Fixed Flash Address, BaseAddress=0x000094efc4, EntryPoint=0x000094f412, Type=PE)
+(GUID=C8339973-A563-4561-B858-D8476F9DEFC4 .textbaseaddress=0x000094f204 .databaseaddress=0x000094f604)
+
+PcRtc (Fixed Flash Address, BaseAddress=0x000094f898, EntryPoint=0x0000950dc6, Type=PE)
+(GUID=378D7B65-8DA9-4773-B6E4-A47826A833E1 .textbaseaddress=0x000094fad8 .databaseaddress=0x0000951598)
+
+WatchdogTimer (Fixed Flash Address, BaseAddress=0x0000951890, EntryPoint=0x0000951b96, Type=PE)
+(GUID=F099D67F-71AE-4C36-B2A3-DCEB0EB2B7D8 .textbaseaddress=0x0000951ad0 .databaseaddress=0x0000951c50)
+
+MonotonicCounterRuntimeDxe (Fixed Flash Address, BaseAddress=0x0000951f18, EntryPoint=0x00009522bb, Type=PE)
+(GUID=AD608272-D07F-4964-801E-7BD3B7888652 .textbaseaddress=0x0000952158 .databaseaddress=0x0000952458)
+
+CapsuleRuntimeDxe (Fixed Flash Address, BaseAddress=0x00009526c0, EntryPoint=0x0000952b55, Type=PE)
+(GUID=42857F0A-13F2-4B21-8A23-53D3F714B840 .textbaseaddress=0x0000952900 .databaseaddress=0x0000952cc0)
+
+ConPlatformDxe (Fixed Flash Address, BaseAddress=0x0000952ed4, EntryPoint=0x0000954211, Type=PE)
+(GUID=51CCF399-4FDF-4E55-A45B-E123F84D456A .textbaseaddress=0x0000953114 .databaseaddress=0x0000954494)
+
+ConSplitterDxe (Fixed Flash Address, BaseAddress=0x0000954904, EntryPoint=0x00009589d9, Type=PE)
+(GUID=408EDCEC-CF6D-477C-A5A8-B4844E3DE281 .textbaseaddress=0x0000954b44 .databaseaddress=0x0000959084)
+
+GraphicsConsoleDxe (Fixed Flash Address, BaseAddress=0x0000959bf4, EntryPoint=0x000095b9a4, Type=PE)
+(GUID=CCCB0C28-4B24-11D5-9A5A-0090273FC14D .textbaseaddress=0x0000959e34 .databaseaddress=0x000095bc34)
+
+TerminalDxe (Fixed Flash Address, BaseAddress=0x000095d6cc, EntryPoint=0x0000961199, Type=PE)
+(GUID=9E863906-A40F-4875-977F-5B93FF237FC6 .textbaseaddress=0x000095d90c .databaseaddress=0x000096178c)
+
+BdsDxe (Fixed Flash Address, BaseAddress=0x0000962078, EntryPoint=0x000096eb43, Type=PE)
+(GUID=6D33944A-EC75-4855-A54D-809C75241F6C .textbaseaddress=0x00009622b8 .databaseaddress=0x00009743f8)
+
+DevicePathDxe (Fixed Flash Address, BaseAddress=0x000098ac6c, EntryPoint=0x0000991a70, Type=PE)
+(GUID=9B680FCE-AD6B-4F3A-B60B-F59899003443 .textbaseaddress=0x000098aeac .databaseaddress=0x00009934ec)
+
+DiskIoDxe (Fixed Flash Address, BaseAddress=0x00009942fc, EntryPoint=0x0000995a41, Type=PE)
+(GUID=6B38F7B4-AD98-40E9-9093-ACA2B5A253C4 .textbaseaddress=0x000099453c .databaseaddress=0x0000995bbc)
+
+PartitionDxe (Fixed Flash Address, BaseAddress=0x0000995f2c, EntryPoint=0x0000998f66, Type=PE)
+(GUID=1FA1F39E-FEFF-4AAE-BD7B-38A070A3B609 .textbaseaddress=0x000099616c .databaseaddress=0x000099916c)
+
+EnglishDxe (Fixed Flash Address, BaseAddress=0x00009994fc, EntryPoint=0x0000999a9e, Type=PE)
+(GUID=CD3BAFB6-50FB-4FE8-8E4E-AB74D2C1A600 .textbaseaddress=0x000099973c .databaseaddress=0x0000999bfc)
+
+SataController (Fixed Flash Address, BaseAddress=0x000099a1c4, EntryPoint=0x000099af53, Type=PE)
+(GUID=820C59BB-274C-43B2-83EA-DAC673035A59 .textbaseaddress=0x000099a404 .databaseaddress=0x000099b104)
+
+AtaAtapiPassThruDxe (Fixed Flash Address, BaseAddress=0x000099b434, EntryPoint=0x00009a14b2, Type=PE)
+(GUID=5E523CB4-D397-4986-87BD-A6DD8B22F455 .textbaseaddress=0x000099b674 .databaseaddress=0x00009a1834)
+
+AtaBusDxe (Fixed Flash Address, BaseAddress=0x00009a1e4c, EntryPoint=0x00009a46be, Type=PE)
+(GUID=19DF145A-B1D4-453F-8507-38816676D7F6 .textbaseaddress=0x00009a208c .databaseaddress=0x00009a498c)
+
+HiiDatabase (Fixed Flash Address, BaseAddress=0x00009a4f3c, EntryPoint=0x00009b564d, Type=PE)
+(GUID=52C05B14-0B98-496C-BC3B-04B50211D680 .textbaseaddress=0x00009a517c .databaseaddress=0x00009ba23c)
+
+SetupBrowser (Fixed Flash Address, BaseAddress=0x00009ba8a4, EntryPoint=0x00009c8e76, Type=PE)
+(GUID=EBF342FE-B1D3-4EF8-957C-8048606FF671 .textbaseaddress=0x00009baae4 .databaseaddress=0x00009cb4e4)
+
+DisplayEngine (Fixed Flash Address, BaseAddress=0x00009cbc40, EntryPoint=0x00009cdd7e, Type=PE)
+(GUID=E660EA85-058E-4B55-A54B-F02F83A24707 .textbaseaddress=0x00009cbe80 .databaseaddress=0x00009d8440)
+
+SioBusDxe (Fixed Flash Address, BaseAddress=0x00009da88c, EntryPoint=0x00009db456, Type=PE)
+(GUID=864E1CA8-85EB-4D63-9DCC-6E0FC90FFD55 .textbaseaddress=0x00009daacc .databaseaddress=0x00009db5cc)
+
+PciSioSerialDxe (Fixed Flash Address, BaseAddress=0x00009db954, EntryPoint=0x00009df1b2, Type=PE)
+(GUID=E2775B47-D453-4EE3-ADA7-391A1B05AC17 .textbaseaddress=0x00009dbb94 .databaseaddress=0x00009df954)
+
+Ps2KeyboardDxe (Fixed Flash Address, BaseAddress=0x00009dfde4, EntryPoint=0x00009e25b3, Type=PE)
+(GUID=C4D1F932-821F-4744-BF06-6D30F7730F8D .textbaseaddress=0x00009e0024 .databaseaddress=0x00009e2ba4)
+
+S3SaveStateDxe (Fixed Flash Address, BaseAddress=0x00009e2f9c, EntryPoint=0x00009e52c8, Type=PE)
+(GUID=BDCE85BB-FBAA-4F4E-9264-501A2C249581 .textbaseaddress=0x00009e31dc .databaseaddress=0x00009e589c)
+
+Fat (Fixed Flash Address, BaseAddress=0x00009e5cac, EntryPoint=0x00009eb610, Type=PE)
+(GUID=961578FE-B6B7-44C3-AF35-6BC705CD2B1F .textbaseaddress=0x00009e5eec .databaseaddress=0x00009eb86c)
+
+QemuVideoDxe (Fixed Flash Address, BaseAddress=0x00009ebce4, EntryPoint=0x00009ee083, Type=PE)
+(GUID=E3752948-B9A1-4770-90C4-DF41C38986BE .textbaseaddress=0x00009ebf24 .databaseaddress=0x00009ee624)
+
+PlatformDxe (Fixed Flash Address, BaseAddress=0x00009eebb4, EntryPoint=0x00009f12b5, Type=PE)
+(GUID=D9DCC5DF-4007-435E-9098-8970935504B2 .textbaseaddress=0x00009eedf4 .databaseaddress=0x00009f1c34)
+
+IoMmuDxe (Fixed Flash Address, BaseAddress=0x00009f240c, EntryPoint=0x00009f473f, Type=PE)
+(GUID=8657015B-EA43-440D-949A-AF3BE365C0FC .textbaseaddress=0x00009f264c .databaseaddress=0x00009f4ccc)
+
+EmuVariableFvbRuntimeDxe (Fixed Flash Address, BaseAddress=0x00009f50bc, EntryPoint=0x00009f56a3, Type=PE)
+(GUID=22DC2B60-FE40-42AC-B01F-3AB1FAD9AAD8 .textbaseaddress=0x00009f52fc .databaseaddress=0x00009f59bc)
+
+FaultTolerantWriteDxe (Fixed Flash Address, BaseAddress=0x00009f5df0, EntryPoint=0x00009f8279, Type=PE)
+(GUID=FE5CEA76-4F72-49E8-986F-2CD899DFFE5D .textbaseaddress=0x00009f6030 .databaseaddress=0x00009f84f0)
+
+VariableRuntimeDxe (Fixed Flash Address, BaseAddress=0x00009f87b4, EntryPoint=0x00009fe477, Type=PE)
+(GUID=CBD2E4D5-7068-4FF5-B462-9822B4AD8D60 .textbaseaddress=0x00009f89f4 .databaseaddress=0x00009ff074)
+

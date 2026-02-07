@@ -1,0 +1,7 @@
+OVMF/OvmfPkg/Library/BaseMemEncryptSevLib/DxeMemEncryptSevLib/DxeMemEncryptSevLibInternal.obj
+OVMF/OvmfPkg/Library/BaseMemEncryptSevLib/DxeMemEncryptSevLib/PeiDxeMemEncryptSevLibInternal.obj
+OVMF/OvmfPkg/Library/BaseMemEncryptSevLib/DxeMemEncryptSevLib/DxeSnpSystemRamValidate.obj
+OVMF/OvmfPkg/Library/BaseMemEncryptSevLib/DxeMemEncryptSevLib/MemEncryptSevLib.obj
+OVMF/OvmfPkg/Library/BaseMemEncryptSevLib/DxeMemEncryptSevLib/PeiDxeVirtualMemory.obj
+OVMF/OvmfPkg/Library/BaseMemEncryptSevLib/DxeMemEncryptSevLib/SnpPageStateChangeInternal.obj
+OVMF/OvmfPkg/Library/BaseMemEncryptSevLib/DxeMemEncryptSevLib/VirtualMemory.obj

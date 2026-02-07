@@ -1,0 +1,14 @@
+OVMF/MdeModulePkg/Universal/Disk/UnicodeCollation/EnglishDxe/ff/EnglishDxe.lib
+OVMF/MdePkg/Library/RegisterFilterLibNull/ff/FilterLibNull.lib
+OVMF/MdePkg/Library/BaseLib/ff/BaseLib.lib
+OVMF/MdePkg/Library/BaseMemoryLibRepStr/ff/BaseMemoryLibRepStr.lib
+OVMF/MdePkg/Library/DxePcdLib/ff/DxePcdLib.lib
+OVMF/MdePkg/Library/TdxLib/ff/TdxLib.lib
+OVMF/MdePkg/Library/BaseDebugPrintErrorLevelLib/ff/BaseDebugPrintErrorLevelLib.lib
+OVMF/MdePkg/Library/BasePrintLib/ff/BasePrintLib.lib
+OVMF/MdePkg/Library/BaseIoLibIntrinsic/ff/BaseIoLibIntrinsicSev.lib
+OVMF/OvmfPkg/Library/PlatformDebugLibIoPort/PlatformDebugLibIoPort/PlatformDebugLibIoPort.lib
+OVMF/OvmfPkg/Library/CcProbeLib/DxeCcProbeLib/DxeCcProbeLib.lib
+OVMF/MdePkg/Library/UefiBootServicesTableLib/ff/UefiBootServicesTableLib.lib
+OVMF/MdePkg/Library/StackCheckLibNull/ff/StackCheckLibNull.lib
+OVMF/MdePkg/Library/UefiDriverEntryPoint/ff/UefiDriverEntryPoint.lib
