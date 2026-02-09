@@ -23,7 +23,10 @@ RM = rm -f
 
 WORKSPACE=$(shell pwd)
 
-all: $(eval export PATH = $(PATH):$(WORKSPACE)/BaseTools:$(WORKSPACE)/.) $(MODULE_DIR)/ff/$(MODULE_NAME).lib
+all: $(eval export PATH = $(PATH):$(WORKSPACE)/BaseTools:$(WORKSPACE)/.) MKDIR $(MODULE_DIR)/ff/$(MODULE_NAME).lib
+
+MKDIR:
+	mkdir -p $(MODULE_DIR)/ff/X64
  
 $(MODULE_DIR)/ff/$(MODULE_NAME).lib: \
  $(MODULE_DIR)/ff/CheckSum.obj \
