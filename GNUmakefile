@@ -6,8 +6,11 @@ WORKSPACE=$(shell pwd)
 all: $(eval export PATH = $(PATH):$(WORKSPACE)/OVMF/BaseTools/Source/C/bin:.) \
  BUILD_LIB BUILD_FFS OVMF_fd
 
+all: $(eval export PATH = $(PATH):$(WORKSPACE)/OVMF/BaseTools/Source/C/bin:.) \
+ BUILD_LIB BUILD_FFS OVMF_fd
+
 OVMF_fd: OVMF/FV/SECFV.Fv  OVMF/FVMAIN_COMPACT.BIN Meta_x86_64/MetaForth
- Meta_x86_64/MetaForth BUILD_LIB BUILD_FFS OVMF_fd
+	Meta_x86_64/MetaForth "FLOAD MLibs.4  FLOAD ovmf.4th BYE"
 
 Meta_x86_64/MetaForth: Meta_x86_64/Mak64Forth.cpp 
 	g++ -o $@ $< -Wreturn-type
